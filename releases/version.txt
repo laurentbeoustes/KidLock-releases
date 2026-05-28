@@ -1,4 +1,4 @@
-﻿KidLock v0.4.2
-Version: 0.4.2
+﻿KidLock v0.4.3
+Version: 0.4.3
 Installer: https://github.com/laurentbeoustes/KidLock-releases/releases/latest/download/KidLockInstaller.exe
-PublishedUtc: 2026-05-28T00:59:10Z
+PublishedUtc: 2026-05-28T03:04:35Z
